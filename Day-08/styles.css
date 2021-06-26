@@ -1,0 +1,28 @@
+.grid-container {
+	position: relative;
+	top: 30px;
+	outline:2px solid rgb(206, 55, 55);
+	font-size: 0;
+	margin:auto;
+	height:960px;
+	width:960px;
+	padding: 0;
+	border: none;
+}
+
+.grid-item {
+	margin:0;
+	padding:0;
+	border:none;
+     background-color: blue;
+	outline:1px solid rgb(243, 14, 14);
+	display:inline-block;
+}
+.grid-item1{
+    margin:0;
+	padding:0;
+	border:none;
+     background-color: rgb(207, 9, 9);
+	outline:1px solid rgb(243, 14, 14);
+	display:inline-block;
+}
